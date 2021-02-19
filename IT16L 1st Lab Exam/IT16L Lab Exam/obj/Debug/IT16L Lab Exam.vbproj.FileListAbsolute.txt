@@ -1,0 +1,19 @@
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\bin\Debug\IT16L Lab Exam.exe.config
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\obj\Debug\IT16L_Lab_Exam.formLogin.resources
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\obj\Debug\IT16L_Lab_Exam.formRegistration.resources
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\obj\Debug\IT16L_Lab_Exam.Resources.resources
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\obj\Debug\IT16L Lab Exam.vbproj.GenerateResource.Cache
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\obj\Debug\IT16L Lab Exam.xml
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\obj\Debug\IT16L_Lab_Exam.formUserProfile.resources
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\bin\Debug\IT16L Lab Exam.exe
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\bin\Debug\IT16L Lab Exam.pdb
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\bin\Debug\IT16L Lab Exam.xml
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\bin\Debug\MySql.Data.dll
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\bin\Debug\MySql.Data.xml
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\obj\Debug\IT16L Lab Exam.exe
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\obj\Debug\IT16L Lab Exam.pdb
+c:\users\nicegood\documents\visual studio 2015\Projects\IT16L Lab Exam\IT16L Lab Exam\obj\Debug\IT16L Lab Exam.vbprojResolveAssemblyReference.cache
+C:\Users\NICEGOOD\Documents\School\3rd Year\2nd Sem\1st Term\IT16L Information Assurance And Security 1\Lab Exams\IT16L 1st Lab Exam\IT16L Lab Exam\bin\Debug\IT16L Lab Exam.exe.config
+C:\Users\NICEGOOD\Documents\School\3rd Year\2nd Sem\1st Term\IT16L Information Assurance And Security 1\Lab Exams\IT16L 1st Lab Exam\IT16L Lab Exam\obj\Debug\IT16L Lab Exam.exe
+C:\Users\NICEGOOD\Documents\School\3rd Year\2nd Sem\1st Term\IT16L Information Assurance And Security 1\Lab Exams\IT16L 1st Lab Exam\IT16L Lab Exam\obj\Debug\IT16L Lab Exam.xml
+C:\Users\NICEGOOD\Documents\School\3rd Year\2nd Sem\1st Term\IT16L Information Assurance And Security 1\Lab Exams\IT16L 1st Lab Exam\IT16L Lab Exam\obj\Debug\IT16L Lab Exam.pdb
